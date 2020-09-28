@@ -1,2 +1,5 @@
-# GAN
-Practicing using generative adversarial networks through practical application
+# Generative Adversarial Network
+
+## Purpose:
+Build a GAN to produce cat images
+Dataset from: https://www.kaggle.com/crawford/cat-dataset?
